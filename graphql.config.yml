@@ -1,0 +1,5 @@
+projects:
+  main:
+    schema: "./schema-storefront.graphql"
+    documents: "./src/**/*.{tsx,ts}"
+    exclude: ["**/node_modules/**"]
