@@ -6,6 +6,7 @@ A Polaris resource picker which can handle any resources, It's intended to expla
 
 You can check [the live demo](https://djang0dev.github.io/special-shopify-resource-picker/), don't forget to click on the inspector
 
+For more explanations about how I did this, you can check this [thread](https://x.com/djang0_dev/status/1870493077238083829)
 
 ##  Logic
 
